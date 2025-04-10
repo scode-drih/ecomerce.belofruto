@@ -14,3 +14,4 @@ Aqui estou aplicando os conhecimentos adquiridos ao longo das aulas, com foco em
 - JavaScript  
 - Git & GitHub  
 
+🔗 **Veja o site online:** [Clique aqui](https://scode-drih.github.io/dio-desafio2-HTML/)
